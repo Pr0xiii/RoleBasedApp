@@ -1,0 +1,56 @@
+﻿@page "admin/users/manager"
+@model RoleBasedApp.Pages.UserManagerModel
+@inject UserManager<IdentityUser> UserManager
+@{
+}
+
+<div class="container-fluid">
+    <div class="col-md-auto">
+        <table class="table">
+            <tr>
+                <th>User</th>
+                <th>User Roles</th>
+                <th>Roles Management</th>
+                <th>User Management</th>
+            </tr>
+            @foreach (var user in Model.Users)
+            {
+                <tr>
+                    <td>@user.Email</td>
+                    <td>
+                        <ul>
+                            @foreach (var role in await Model.GetUserRoleAsync(user))
+                            {
+                                <li>@role</li>
+                            }
+                        </ul>
+                    </td>
+                    <td>
+                        <form method="post" asp-page-handler="UpdateAdminRole">
+                            <input type="hidden" name="userID" value="@user.Id" />
+                            @if (await Model.CheckAdminRoleAsync(user))
+                            {
+                                <input type="hidden" name="add" value="false" />
+                                <button type="submit" class="btn btn-danger">Remove Admin Role</button>
+                            }
+                            else
+                            {
+                                <input type="hidden" name="add" value="true" />
+                                <button type="submit" class="btn btn-success">Add Admin Role</button>
+                            }
+                        </form>
+                    </td>
+                    <td>
+                        @if (user.Id != UserManager.GetUserId(User))
+                        {
+                            <form method="post" asp-page-handler="DeleteUser">
+                                <input type="hidden" name="userID" value="@user.Id" />
+                                <button type="submit" class="btn btn-danger">Delete User</button>
+                            </form>
+                        }
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>
