@@ -286,3 +286,4 @@ C:\Users\jolan\OneDrive\Documents\RoleBasedWebApp\RoleBasedApp\bin\Debug\net8.0\
 C:\Users\jolan\OneDrive\Documents\RoleBasedWebApp\RoleBasedApp\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\jolan\OneDrive\Documents\RoleBasedWebApp\RoleBasedApp\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\jolan\OneDrive\Documents\RoleBasedWebApp\RoleBasedApp\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\jolan\OneDrive\Documents\RoleBasedWebApp\RoleBasedApp\obj\Debug\net8.0\RoleBasedApp.sourcelink.json

@@ -8,11 +8,13 @@ namespace RoleBasedApp.Services
     {
         private readonly ApplicationDbContext _context;
         private readonly UserManager<IdentityUser> _userManager;
+        private readonly RoleManager<IdentityRole> _roleManager;
 
-        public ApplicationService(ApplicationDbContext context, UserManager<IdentityUser> userManager)
+        public ApplicationService(ApplicationDbContext context, UserManager<IdentityUser> userManager, RoleManager<IdentityRole> roleManager)
         {
             _context = context;
             _userManager = userManager;
+            _roleManager = roleManager;
         }
 
         public async Task<List<IdentityRole>> GetAllRolesAsync()
@@ -37,13 +39,13 @@ namespace RoleBasedApp.Services
             return await _userManager.GetRolesAsync(user);
         }
 
-        public async Task<bool> CheckAdminRoleAsync(IdentityUser user)
+        public async Task<bool> CheckRoleAsync(IdentityUser user, string roleName)
         {
-            var users = await _userManager.GetUsersInRoleAsync("Admin");
+            var users = await _userManager.GetUsersInRoleAsync(roleName);
             return users.Contains(user);
         }
 
-        public async Task DeleteUser(string userID)
+        public async Task DeleteUserAsync(string userID)
         {
             var user = await _userManager.FindByIdAsync(userID);
 
@@ -60,7 +62,7 @@ namespace RoleBasedApp.Services
             }
         }
 
-        public async Task UpdateAdminRole(string userID, bool add)
+        public async Task UpdateRoleAsync(string userID, string roleName, bool add)
         {
             var user = await _userManager.FindByIdAsync(userID);
 
@@ -68,11 +70,19 @@ namespace RoleBasedApp.Services
 
             if (add)
             {
-                await _userManager.AddToRoleAsync(user, "Admin");
+                await _userManager.AddToRoleAsync(user, roleName);
             }
             else
             {
-                await _userManager.RemoveFromRoleAsync(user, "Admin");
+                await _userManager.RemoveFromRoleAsync(user, roleName);
+            }
+        }
+
+        public async Task AddRoleAsync(string roleName)
+        {
+            if (await _roleManager.FindByNameAsync(roleName) == null)
+            {
+                await _roleManager.CreateAsync(new IdentityRole(roleName));
             }
         }
     }

@@ -20,6 +20,9 @@ namespace RoleBasedApp.Pages
         public List<IdentityUser> Users { get; set; }
         public List<IdentityRole> Roles { get; set; }
 
+        [BindProperty]
+        public string Name { get; set; }
+
         public async Task<IActionResult> OnGetAsync()
         {
             Users = await _service.GetAllUsersAsync();
@@ -34,21 +37,31 @@ namespace RoleBasedApp.Pages
             return await _service.GetUserRoleAsync(user);
         }
 
-        public async Task<bool> CheckAdminRoleAsync(IdentityUser user)
+        public async Task<bool> CheckRoleAsync(IdentityUser user, string roleName)
         {
-            return await _service.CheckAdminRoleAsync(user);
+            return await _service.CheckRoleAsync(user, roleName);
         }
 
         public async Task<IActionResult> OnPostDeleteUserAsync(string userID)
         {
-            await _service.DeleteUser(userID);
+            await _service.DeleteUserAsync(userID);
 
             return RedirectToPage();
         }
 
-        public async Task<IActionResult> OnPostUpdateAdminRoleAsync(string userID, bool add)
+        public async Task<IActionResult> OnPostUpdateRoleAsync(string userID, string roleName, bool add)
         {
-            await _service.UpdateAdminRole(userID, add);
+            await _service.UpdateRoleAsync(userID, roleName, add);
+
+            return RedirectToPage();
+        }
+
+        public async Task<IActionResult> OnPostCreateRoleAsync()
+        {
+            if (!ModelState.IsValid || Name == null)
+                return Page();
+
+            await _service.AddRoleAsync(Name);
 
             return RedirectToPage();
         }

@@ -9,9 +9,10 @@ namespace RoleBasedApp.Services
 
         Task<IdentityUser> GetUserAsync(string id);
         Task<IList<string>> GetUserRoleAsync(IdentityUser user);
-        Task<bool> CheckAdminRoleAsync(IdentityUser user);
+        Task<bool> CheckRoleAsync(IdentityUser user, string roleName);
 
-        Task DeleteUser(string userID);
-        Task UpdateAdminRole(string userID, bool add);
+        Task DeleteUserAsync(string userID);
+        Task UpdateRoleAsync(string userID, string roleName, bool add);
+        Task AddRoleAsync(string roleName);
     }
 }

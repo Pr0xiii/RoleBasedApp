@@ -26,19 +26,23 @@
                         </ul>
                     </td>
                     <td>
-                        <form method="post" asp-page-handler="UpdateAdminRole">
-                            <input type="hidden" name="userID" value="@user.Id" />
-                            @if (await Model.CheckAdminRoleAsync(user))
-                            {
-                                <input type="hidden" name="add" value="false" />
-                                <button type="submit" class="btn btn-danger">Remove Admin Role</button>
-                            }
-                            else
-                            {
-                                <input type="hidden" name="add" value="true" />
-                                <button type="submit" class="btn btn-success">Add Admin Role</button>
-                            }
-                        </form>
+                        @foreach (var role in Model.Roles)
+                        {
+                            <form method="post" asp-page-handler="UpdateRole">
+                                <input type="hidden" name="userID" value="@user.Id" />
+                                <input type="hidden" name="roleName" value="@role.Name" />
+                                @if (await Model.CheckRoleAsync(user, role.Name))
+                                {
+                                    <input type="hidden" name="add" value="false" />
+                                    <button type="submit" class="btn btn-danger">Remove @role.Name Role</button>
+                                }
+                                else
+                                {
+                                    <input type="hidden" name="add" value="true" />
+                                    <button type="submit" class="btn btn-success">Add @role.Name Role</button>
+                                }
+                            </form>
+                        }
                     </td>
                     <td>
                         @if (user.Id != UserManager.GetUserId(User))
@@ -52,5 +56,18 @@
                 </tr>
             }
         </table>
+    </div>
+    <div class="col-md-auto">
+        <h2>Create a new role</h2>
+        <form method="post" asp-page-handler="CreateRole">
+            <div class="mb-3">
+                <label class="form-label" asp-for="Name">Role Name :</label>
+                <input class="form-control" type="text" asp-for="Name" />
+            </div>
+            <div class="group-form">
+                <button type="reset" class="btn btn-danger">Reset</button>
+                <button type="submit" class="btn btn-success">Create</button>
+            </div>
+        </form>
     </div>
 </div>
