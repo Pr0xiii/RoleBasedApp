@@ -1,6 +1,7 @@
 ﻿@page "admin/users/manager"
+@using RoleBasedApp.Models
 @model RoleBasedApp.Pages.UserManagerModel
-@inject UserManager<IdentityUser> UserManager
+@inject UserManager<ApplicationUser> UserManager
 @{
 }
 
@@ -13,51 +14,67 @@
                 <th>Roles Management</th>
                 <th>User Management</th>
             </tr>
-            @foreach (var user in Model.Users)
+            @if (Model.Users != null)
             {
-                <tr>
-                    <td>@user.Email</td>
-                    <td>
-                        <ul>
-                            @foreach (var role in await Model.GetUserRoleAsync(user))
+                @foreach (var user in Model.Users)
+                {
+                    <tr>
+                        <td>@user.Email</td>
+                        <td>
+                            <ul>
+                                @foreach (var role in await Model.GetUserRoleAsync(user))
+                                {
+                                    <li>@role</li>
+                                }
+                            </ul>
+                        </td>
+                        <td>
+                            @foreach (var role in Model.Roles)
                             {
-                                <li>@role</li>
+                                <form method="post" asp-page-handler="UpdateRole">
+                                    <input type="hidden" name="userID" value="@user.Id" />
+                                    <input type="hidden" name="roleName" value="@role.Name" />
+                                    @if (await Model.CheckRoleAsync(user, role.Name))
+                                    {
+                                        <input type="hidden" name="add" value="false" />
+                                        <button type="submit" class="btn btn-danger">Remove @role.Name Role</button>
+                                    }
+                                    else
+                                    {
+                                        <input type="hidden" name="add" value="true" />
+                                        <button type="submit" class="btn btn-success">Add @role.Name Role</button>
+                                    }
+                                </form>
                             }
-                        </ul>
-                    </td>
-                    <td>
-                        @foreach (var role in Model.Roles)
-                        {
-                            <form method="post" asp-page-handler="UpdateRole">
-                                <input type="hidden" name="userID" value="@user.Id" />
-                                <input type="hidden" name="roleName" value="@role.Name" />
-                                @if (await Model.CheckRoleAsync(user, role.Name))
-                                {
-                                    <input type="hidden" name="add" value="false" />
-                                    <button type="submit" class="btn btn-danger">Remove @role.Name Role</button>
-                                }
-                                else
-                                {
-                                    <input type="hidden" name="add" value="true" />
-                                    <button type="submit" class="btn btn-success">Add @role.Name Role</button>
-                                }
-                            </form>
-                        }
-                    </td>
-                    <td>
-                        @if (user.Id != UserManager.GetUserId(User))
-                        {
-                            <form method="post" asp-page-handler="DeleteUser">
-                                <input type="hidden" name="userID" value="@user.Id" />
-                                <button type="submit" class="btn btn-danger">Delete User</button>
-                            </form>
-                        }
-                    </td>
-                </tr>
+                        </td>
+                        <td>
+                            @if (user.Id != UserManager.GetUserId(User))
+                            {
+                                <form method="post" asp-page-handler="DeleteUser">
+                                    <input type="hidden" name="userID" value="@user.Id" />
+                                    <button type="submit" class="btn btn-danger">Delete User</button>
+                                </form>
+                            }
+                        </td>
+                    </tr>
+                }
             }
         </table>
     </div>
     <div class="col-md-auto">
+        <h2>Invite a new user</h2>
+        <form method="post" asp-page-handler="InviteUser">
+            <div class="mb-3">
+                <label class="form-label" asp-for="Email">Enter email :</label>
+                <input class="form-control" type="email" asp-for="Email" />
+            </div>
+            <div class="group-form">
+                <button type="reset" class="btn btn-danger">Reset</button>
+                <button type="submit" class="btn btn-success">Invite</button>
+            </div>
+        </form>
+    </div>
+    @* <div class="col-md-auto">
         <h2>Create a new role</h2>
         <form method="post" asp-page-handler="CreateRole">
             <div class="mb-3">
@@ -69,5 +86,5 @@
                 <button type="submit" class="btn btn-success">Create</button>
             </div>
         </form>
-    </div>
+    </div> *@
 </div>

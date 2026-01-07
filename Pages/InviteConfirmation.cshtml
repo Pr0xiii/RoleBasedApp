@@ -1,0 +1,19 @@
+﻿@page "Invite/Confirmation/{token}"
+@model RoleBasedApp.Pages.InviteConfirmationModel
+
+<div class="container">
+    <form method="post">
+        <input type="hidden" name="token" value="@Model.Invitation.Token" />
+        <div class="mb-3">
+            <label class="form-label" asp-for="Password">Enter a password :</label>
+            <input type="password" class="form-control" asp-for="Password" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label" asp-for="ConfirmationPassword">Confirm the password :</label>
+            <input type="password" class="form-control" asp-for="ConfirmationPassword" />
+        </div>
+        <button type="submit" class="btn btn-primary">Confirm your access</button>
+    </form>
+</div>
+@{
+}

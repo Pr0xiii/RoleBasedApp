@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoleBasedApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d890bc7db9957e82ae63fb3e9cf71578c173bae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a23b533546e08348e0071a00d97b46ff2249a72")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoleBasedApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoleBasedApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

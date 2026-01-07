@@ -3,27 +3,136 @@
   "WorkspaceRootPath": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_RoleBasedApp_5b37bd6a_2536_47c0_9aef_27e4d8b59e0f/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\pages\\usermanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:pages\\usermanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\models\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:models\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\areas\\identity\\pages\\account\\manage\\downloadpersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\downloadpersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\areas\\identity\\pages\\account\\manage\\email.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\email.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\areas\\identity\\pages\\account\\manage\\email.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\email.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\areas\\identity\\pages\\account\\manage\\setpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\setpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\personaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\pages\\usermanager.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:pages\\usermanager.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\services\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:services\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\pages\\inviteconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:pages\\inviteconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\areas\\identity\\pages\\account\\confirmemailchange.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:areas\\identity\\pages\\account\\confirmemailchange.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:areas\\identity\\pages\\account\\resendemailconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\services\\appclaimsprincipalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:services\\appclaimsprincipalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|c:\\users\\jolan\\onedrive\\documents\\rolebasedwebapp\\rolebasedapp\\models\\userinvitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4778182E-300E-43F5-8CFA-75FF8FE7A1C9}|RoleBasedApp.csproj|solutionrelative:models\\userinvitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,82 +142,406 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "dbo.AspNetRoles [Donn\u00E9es]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_RoleBasedApp_5b37bd6a_2536_47c0_9aef_27e4d8b59e0f/True/SqlTable/dbo.AspNetRoles.sql",
-              "ToolTip": "dbo.AspNetRoles [Donn\u00E9es]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-12-27T14:55:30.943Z",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T17:29:14.378Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Email.cshtml",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T17:28:15.817Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IdentityConfig.cs",
-              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Models\\IdentityConfig.cs",
-              "RelativeDocumentMoniker": "Models\\IdentityConfig.cs",
-              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Models\\IdentityConfig.cs",
-              "RelativeToolTip": "Models\\IdentityConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T14:29:32.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T17:25:29.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserManager.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Pages\\UserManager.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\UserManager.cshtml.cs",
-              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Pages\\UserManager.cshtml.cs",
-              "RelativeToolTip": "Pages\\UserManager.cshtml.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowDkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAFEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T15:14:12.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserManager.cshtml",
-              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Pages\\UserManager.cshtml",
-              "RelativeDocumentMoniker": "Pages\\UserManager.cshtml",
-              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Pages\\UserManager.cshtml",
-              "RelativeToolTip": "Pages\\UserManager.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAACcAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-26T15:12:35.193Z",
+              "WhenOpened": "2026-01-06T12:52:13.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApplicationService.cs",
-              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Services\\ApplicationService.cs",
-              "RelativeDocumentMoniker": "Services\\ApplicationService.cs",
-              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Services\\ApplicationService.cs",
-              "RelativeToolTip": "Services\\ApplicationService.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAqwFQAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T15:02:40.363Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-06T14:22:12.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IApplicationService.cs",
-              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Services\\IApplicationService.cs",
-              "RelativeDocumentMoniker": "Services\\IApplicationService.cs",
-              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Services\\IApplicationService.cs",
-              "RelativeToolTip": "Services\\IApplicationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Title": "DownloadPersonalData.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T14:58:27.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T17:28:17.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageNavPages.cs",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:28:29.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeletePersonalData.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:28:02.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChangePassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwBcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:27:42.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Email.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAcwKIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:26:50.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SetPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:26:31.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PersonalData.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:26:09.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAcwI0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:31:13.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConfirmEmail.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T15:03:57.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T14:56:15.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T14:57:04.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T14:57:08.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAA8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T15:13:36.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserManager.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Pages\\UserManager.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\UserManager.cshtml.cs",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Pages\\UserManager.cshtml.cs",
+              "RelativeToolTip": "Pages\\UserManager.cshtml.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAUwFAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T14:36:43.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InviteConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Pages\\InviteConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\InviteConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Pages\\InviteConfirmation.cshtml.cs",
+              "RelativeToolTip": "Pages\\InviteConfirmation.cshtml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwDgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:03:35.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConfirmEmailChange.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T15:04:07.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T15:03:37.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ResendEmailConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T15:03:24.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T14:58:17.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwBkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T14:57:49.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T14:57:13.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T14:57:03.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T14:57:01.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T14:56:59.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T14:56:57.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Services\\ApplicationService.cs",
+              "RelativeDocumentMoniker": "Services\\ApplicationService.cs",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Services\\ApplicationService.cs",
+              "RelativeToolTip": "Services\\ApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T15:02:40.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppClaimsPrincipalFactory.cs",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Services\\AppClaimsPrincipalFactory.cs",
+              "RelativeDocumentMoniker": "Services\\AppClaimsPrincipalFactory.cs",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Services\\AppClaimsPrincipalFactory.cs",
+              "RelativeToolTip": "Services\\AppClaimsPrincipalFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T12:51:33.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserInvitation.cs",
+              "DocumentMoniker": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Models\\UserInvitation.cs",
+              "RelativeDocumentMoniker": "Models\\UserInvitation.cs",
+              "ToolTip": "C:\\Users\\jolan\\OneDrive\\Documents\\RoleBasedWebApp\\RoleBasedApp\\Models\\UserInvitation.cs",
+              "RelativeToolTip": "Models\\UserInvitation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T14:19:14.356Z"
             }
           ]
         }

@@ -1,15 +1,15 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using RoleBasedApp.Models;
 
 namespace RoleBasedApp.Services
 {
     public interface IApplicationService
     {
-        Task<List<IdentityUser>> GetAllUsersAsync();
-        Task<List<IdentityRole>> GetAllRolesAsync();
+        Task<List<ApplicationUser>> GetAllUsersAsync();
+        Task<List<ApplicationRole>> GetAllRolesAsync();
 
-        Task<IdentityUser> GetUserAsync(string id);
-        Task<IList<string>> GetUserRoleAsync(IdentityUser user);
-        Task<bool> CheckRoleAsync(IdentityUser user, string roleName);
+        Task<ApplicationUser> GetUserAsync(string id);
+        Task<IList<string>> GetUserRoleAsync(ApplicationUser user);
+        Task<bool> CheckRoleAsync(ApplicationUser user, string roleName);
 
         Task DeleteUserAsync(string userID);
         Task UpdateRoleAsync(string userID, string roleName, bool add);
